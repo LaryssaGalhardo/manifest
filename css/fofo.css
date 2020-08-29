@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+}
+
+.fundoColorido{
+    background-image: linear-gradient(to right, #e65c00, #F9D423);
+}
+.jumbotron-fofocas {
+    background: url('../img/laryssa.jpg');
+    background-size: cover;
+    background-position-y: center;
+}
+
+.negative-top {
+    margin-top: -2em;
+}
+
+.copyright {
+    font-size: 0.7em;
+}
